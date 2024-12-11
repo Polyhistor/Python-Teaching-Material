@@ -35,6 +35,22 @@ my_function.custom_attribute = "Hello"  # Valid in Python!
 print(my_function.custom_attribute)     # Prints: Hello
 ```
 
+Immutable Objects:
+int (integers)
+float (floating-point numbers)
+complex (complex numbers)
+bool (booleans)
+str (strings)
+tuple
+frozenset
+bytes
+Mutable Objects:
+list
+dict (dictionaries)
+set
+bytearray
+Custom classes (by default)
+
 ### Memory Management
 
 Python uses two main mechanisms for memory management:
